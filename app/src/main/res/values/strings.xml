@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Codelab Pokedex</string>
+    <string name="app_name">Pokedex</string>
     <string name="main_activity_title">POKEDEX</string>
     <string name="main_activity_welcome_message">Bienvenido a tu Pokedex!</string>
     <string name="main_activity_instructions">Para comenzar, abre el repositorio en GitHub y sigue las instrucciones para armar tu app de Pokedex!</string>
@@ -9,4 +9,13 @@
     <string name="drawer_close">Close Drawer</string>
     <string name="pokemon_list_activity_title">Mis Pokemones</string>
     <string name="pokemon_favorites_activity_title">Mis Favoritos</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>
